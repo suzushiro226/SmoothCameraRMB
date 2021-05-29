@@ -1,0 +1,3 @@
+# SmoothCameraRMB
+KSP MOD
+KSPのカメラのMOD
