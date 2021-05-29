@@ -1,3 +1,2 @@
 # SmoothCameraRMB
-KSP MOD
 KSPのカメラのMOD
